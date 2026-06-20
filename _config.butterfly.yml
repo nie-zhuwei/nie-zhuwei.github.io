@@ -284,12 +284,12 @@ aside:
     category: true
   card_author:
     enable: true
-    description:
+    description: 国科大 CS 在读
     button:
       enable: true
       icon: fab fa-github
       text: Follow Me
-      link: https://github.com/xxxxxx
+      link: https://github.com/nie-zhuwei
   card_announcement:
     enable: true
     content: This is my Blog
