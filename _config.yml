@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 硬件加速学习笔记
-subtitle: 'CPU · 硬件加速 · 保研计算所'
-description: '国科大 CS 在读，方向硬件加速 / AI 芯片（DSA）。记录做 CPU、硬件加速器时遇到的问题与解决过程。'
-keywords: 硬件加速,AI芯片,CPU,GEMM,加速器,DSA
-author: Your Name
+title: 聂竹唯
+subtitle: '个人博客'
+description: '聂竹唯的个人博客 —— 记录学习、项目与思考。'
+keywords: 聂竹唯,博客,个人主页
+author: 聂竹唯
 language: zh-CN
 timezone: Asia/Shanghai
 
