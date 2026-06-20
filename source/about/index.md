@@ -19,4 +19,4 @@ type: about
 ## 联系
 
 - Email: your@email.com
-- GitHub: [MrNZW](https://github.com/MrNZW)
+- GitHub: [nie-zhuwei](https://github.com/nie-zhuwei)
